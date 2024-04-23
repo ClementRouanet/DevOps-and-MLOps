@@ -1,21 +1,21 @@
 passenger_id,name,sex,age,education,marital_status,relationship,class,fare,sibsp,parch,date_embarked,embarked,workclass,occupation,hours_per_week,capital_gain,capital_loss,native_country,income,survived
-660,"Newell, Mr. Arthur Webster",male,58.0,7th-8th,Married-civ-spouse,Husband,1,113.275,0,2,10/04/1912 19:40,C,?,?,24.0,0.0,0.0,United-States,<=50K,0
-39,"Vander Planke, Miss. Augusta Maria",female,18.0,HS-grad,Never-married,Own-child,3,18.0,2,0,10/04/1912 13:50,S,Private,Other-service,30.0,0.0,0.0,United-States,<=50K,0
-483,"Rouse, Mr. Richard Henry",male,50.0,Some-college,Married-civ-spouse,Husband,3,8.05,0,0,10/04/1912 12:25,S,Private,Sales,40.0,0.0,0.0,United-States,>50K,0
-785,"Ali, Mr. William",male,25.0,Some-college,Married-civ-spouse,Husband,3,7.05,0,0,10/04/1912 12:25,S,Private,Craft-repair,40.0,0.0,0.0,United-States,<=50K,0
-825,"Panula, Master. Urho Abraham",male,2.0,,,,3,39.6875,4,1,10/04/1912 13:30,S,,,,0.0,0.0,,no income,0
-276,"Andrews, Miss. Kornelia Theodosia",female,63.0,HS-grad,Married-civ-spouse,Wife,1,77.9583,1,0,10/04/1912 13:30,S,Private,Adm-clerical,40.0,3471.0,0.0,United-States,<=50K,1
-95,"Coxon, Mr. Daniel",male,59.0,Assoc-acdm,Divorced,Not-in-family,3,7.25,0,0,10/04/1912 13:50,S,?,?,8.0,0.0,0.0,United-States,<=50K,0
-593,"Elsbury, Mr. William James",male,47.0,HS-grad,Married-civ-spouse,Husband,3,7.25,0,0,10/04/1912 12:40,S,Self-emp-not-inc,Farming-fishing,56.0,0.0,0.0,United-States,>50K,0
-3,"Heikkinen, Miss. Laina",female,26.0,Bachelors,Never-married,Not-in-family,3,7.925,0,0,10/04/1912 12:45,S,Private,Prof-specialty,40.0,0.0,0.0,United-States,>50K,1
-217,"Honkanen, Miss. Eliina",female,27.0,Some-college,Never-married,Unmarried,3,7.925,0,0,10/04/1912 12:30,S,Private,Adm-clerical,50.0,0.0,0.0,United-States,<=50K,1
-175,"Smith, Mr. James Clinch",male,56.0,Bachelors,Married-civ-spouse,Husband,1,30.6958,0,0,10/04/1912 19:50,C,Private,Exec-managerial,42.0,0.0,0.0,United-States,>50K,0
-178,"Isham, Miss. Ann Elizabeth",female,50.0,Masters,Divorced,Unmarried,1,28.7125,0,0,10/04/1912 19:50,C,Local-gov,Prof-specialty,65.0,0.0,0.0,United-States,<=50K,0
-834,"Augustsson, Mr. Albert",male,23.0,Some-college,Never-married,Not-in-family,3,7.8542,0,0,10/04/1912 13:20,S,Federal-gov,Handlers-cleaners,40.0,0.0,0.0,United-States,<=50K,0
-653,"Kalvik, Mr. Johannes Halvorsen",male,21.0,12th,Never-married,Not-in-family,3,8.4333,0,0,10/04/1912 12:45,S,Private,Farming-fishing,40.0,0.0,0.0,United-States,<=50K,0
-577,"Garside, Miss. Ethel",female,34.0,HS-grad,Married-spouse-absent,Unmarried,2,13.0,0,0,10/04/1912 13:30,S,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,1
-213,"Perkin, Mr. John Henry",male,22.0,Some-college,Never-married,Own-child,3,7.25,0,0,10/04/1912 13:55,S,Private,Transport-moving,25.0,0.0,0.0,United-States,<=50K,0
-690,"Madill, Miss. Georgette Alexandra",female,15.0,,,,1,211.3375,0,1,10/04/1912 13:30,S,,,,0.0,0.0,,no income,1
-541,"Crosby, Miss. Harriet R",female,36.0,Some-college,Divorced,Unmarried,1,71.0,0,2,10/04/1912 13:35,S,Private,Adm-clerical,40.0,0.0,0.0,United-States,<=50K,1
-378,"Widener, Mr. Harry Elkins",male,27.0,Bachelors,Never-married,Not-in-family,1,211.5,0,2,10/04/1912 18:50,C,Private,Sales,45.0,0.0,1504.0,United-States,<=50K,0
-743,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,Some-college,Never-married,Own-child,1,262.375,2,2,10/04/1912 19:50,C,Private,Sales,20.0,0.0,0.0,United-States,<=50K,1
+699,"Thayer, Mr. John Borland",male,49.0,Bachelors,Married-civ-spouse,Husband,1,110.8833,1,1,10/04/1912 18:50,C,Local-gov,Protective-serv,40.0,15024.0,0.0,United-States,>50K,0
+293,"Levy, Mr. Rene Jacques",male,36.0,11th,Divorced,Not-in-family,2,12.875,0,0,10/04/1912 18:45,C,Private,Transport-moving,40.0,0.0,0.0,United-States,<=50K,0
+626,"Sutton, Mr. Frederick",male,61.0,HS-grad,Married-civ-spouse,Husband,1,32.3208,0,0,10/04/1912 13:55,S,Private,Craft-repair,20.0,0.0,2051.0,United-States,<=50K,0
+206,"Strom, Miss. Telma Matilda",female,2.0,,,,3,10.4625,0,1,10/04/1912 13:50,S,,,,0.0,0.0,,no income,0
+52,"Nosworthy, Mr. Richard Cater",male,21.0,HS-grad,Married-civ-spouse,Husband,3,7.8,0,0,10/04/1912 12:45,S,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,0
+407,"Widegren, Mr. Carl/Charles Peter",male,51.0,HS-grad,Never-married,Unmarried,3,7.75,0,0,10/04/1912 12:20,S,Self-emp-not-inc,Farming-fishing,45.0,0.0,0.0,United-States,<=50K,0
+144,"Burke, Mr. Jeremiah",male,19.0,Some-college,Never-married,Own-child,3,6.75,0,0,11/04/1912 12:35,Q,Private,Other-service,24.0,0.0,1602.0,United-States,<=50K,0
+103,"White, Mr. Richard Frasar",male,21.0,Some-college,Never-married,Not-in-family,1,77.2875,0,1,10/04/1912 13:35,S,Private,Craft-repair,50.0,0.0,0.0,United-States,<=50K,0
+273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,Assoc-acdm,Married-civ-spouse,Wife,2,19.5,0,1,10/04/1912 13:35,S,Private,Exec-managerial,50.0,0.0,0.0,United-States,>50K,1
+196,"Lurette, Miss. Elise",female,58.0,Masters,Widowed,Not-in-family,1,146.5208,0,0,10/04/1912 18:45,C,Self-emp-not-inc,Other-service,15.0,0.0,0.0,United-States,<=50K,1
+562,"Sivic, Mr. Husein",male,40.0,Assoc-acdm,Married-civ-spouse,Husband,3,7.8958,0,0,10/04/1912 12:35,S,Private,Adm-clerical,40.0,0.0,0.0,United-States,<=50K,0
+44,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,,,,2,41.5792,1,2,10/04/1912 18:55,C,,,,0.0,0.0,,no income,1
+669,"Cook, Mr. Jacob",male,43.0,Assoc-acdm,Married-civ-spouse,Husband,3,8.05,0,0,10/04/1912 13:25,S,Self-emp-inc,Exec-managerial,50.0,0.0,0.0,United-States,<=50K,0
+40,"Nicola-Yarred, Miss. Jamila",female,14.0,,,,3,11.2417,1,0,10/04/1912 18:50,C,,,,0.0,0.0,,no income,1
+131,"Drazenoic, Mr. Jozef",male,33.0,10th,Married-civ-spouse,Husband,3,7.8958,0,0,10/04/1912 18:40,C,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,0
+216,"Newell, Miss. Madeleine",female,31.0,Bachelors,Never-married,Unmarried,1,113.275,1,0,10/04/1912 18:40,C,Private,Prof-specialty,36.0,0.0,0.0,United-States,<=50K,1
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,HS-grad,Widowed,Unmarried,1,86.5,0,0,10/04/1912 12:40,S,Local-gov,Other-service,40.0,0.0,0.0,United-States,<=50K,1
+688,"Dakic, Mr. Branko",male,19.0,Some-college,Never-married,Own-child,3,10.1708,0,0,10/04/1912 13:50,S,Private,Adm-clerical,28.0,0.0,0.0,United-States,<=50K,0
+364,"Asim, Mr. Adola",male,35.0,Bachelors,Divorced,Not-in-family,3,7.05,0,0,10/04/1912 13:45,S,Local-gov,Prof-specialty,40.0,0.0,0.0,United-States,<=50K,0
+616,"Herman, Miss. Alice",female,24.0,Bachelors,Never-married,Not-in-family,2,65.0,1,2,10/04/1912 12:55,S,Private,Sales,40.0,0.0,0.0,United-States,<=50K,1
