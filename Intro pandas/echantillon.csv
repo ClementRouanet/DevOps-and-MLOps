@@ -1,21 +1,21 @@
 passenger_id,name,sex,age,education,marital_status,relationship,class,fare,sibsp,parch,date_embarked,embarked,workclass,occupation,hours_per_week,capital_gain,capital_loss,native_country,income,survived
-226,"Berglund, Mr. Karl Ivar Sven",male,22.0,HS-grad,Never-married,Own-child,3,9.35,0,0,10/04/1912 12:45,S,Private,Adm-clerical,40.0,0.0,0.0,United-States,<=50K,0
-874,"Vander Cruyssen, Mr. Victor",male,47.0,Assoc-voc,Never-married,Not-in-family,3,9.0,0,0,10/04/1912 13:25,S,Private,Other-service,40.0,0.0,0.0,United-States,<=50K,0
-140,"Giglio, Mr. Victor",male,24.0,HS-grad,Never-married,Own-child,1,79.2,0,0,10/04/1912 19:45,C,Private,Sales,45.0,0.0,0.0,United-States,<=50K,0
-316,"Nilsson, Miss. Helmina Josefina",female,26.0,HS-grad,Never-married,Not-in-family,3,7.8542,0,0,10/04/1912 13:45,S,Private,Exec-managerial,50.0,0.0,0.0,United-States,<=50K,1
-846,"Abbing, Mr. Anthony",male,42.0,7th-8th,Married-civ-spouse,Husband,3,7.55,0,0,10/04/1912 13:40,S,Self-emp-not-inc,Sales,30.0,0.0,0.0,United-States,<=50K,0
-67,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,10th,Divorced,Not-in-family,2,10.5,0,0,10/04/1912 12:50,S,Private,Machine-op-inspct,25.0,0.0,0.0,United-States,<=50K,1
-239,"Pengelly, Mr. Frederick William",male,19.0,Some-college,Never-married,Other-relative,2,10.5,0,0,10/04/1912 13:50,S,Private,Adm-clerical,25.0,0.0,0.0,United-States,<=50K,0
-891,"Dooley, Mr. Patrick",male,32.0,HS-grad,Never-married,Unmarried,3,7.75,0,0,11/04/1912 11:35,Q,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,0
-661,"Frauenthal, Dr. Henry William",male,50.0,Bachelors,Married-civ-spouse,Husband,1,133.65,2,0,10/04/1912 13:20,S,Private,Craft-repair,50.0,0.0,0.0,United-States,<=50K,1
-729,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,Some-college,Married-civ-spouse,Husband,2,26.0,1,0,10/04/1912 12:25,S,Private,Craft-repair,40.0,0.0,0.0,United-States,<=50K,0
-691,"Dick, Mr. Albert Adrian",male,31.0,Some-college,Married-civ-spouse,Husband,1,57.0,1,0,10/04/1912 13:30,S,Private,Farming-fishing,50.0,7298.0,0.0,United-States,>50K,1
-26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,HS-grad,Divorced,Not-in-family,3,31.3875,1,5,10/04/1912 13:30,S,Private,Other-service,75.0,0.0,0.0,United-States,<=50K,1
-805,"Hedman, Mr. Oskar Arvid",male,27.0,HS-grad,Married-civ-spouse,Husband,3,6.975,0,0,10/04/1912 12:55,S,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,1
-578,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,HS-grad,Never-married,Unmarried,1,55.9,1,0,10/04/1912 13:50,S,State-gov,Other-service,40.0,0.0,0.0,United-States,<=50K,1
-125,"White, Mr. Percival Wayland",male,54.0,HS-grad,Married-civ-spouse,Husband,1,77.2875,0,1,10/04/1912 12:40,S,Self-emp-not-inc,Craft-repair,35.0,0.0,0.0,United-States,<=50K,0
-511,"Daly, Mr. Eugene Patrick",male,29.0,HS-grad,Married-civ-spouse,Husband,3,7.75,0,0,11/04/1912 11:50,Q,Self-emp-not-inc,Farming-fishing,70.0,0.0,0.0,United-States,<=50K,1
-233,"Sjostedt, Mr. Ernst Adolf",male,59.0,HS-grad,Married-civ-spouse,Husband,2,13.5,0,0,10/04/1912 13:25,S,State-gov,Sales,40.0,0.0,0.0,United-States,<=50K,0
-391,"Carter, Mr. William Ernest",male,36.0,HS-grad,Married-civ-spouse,Husband,1,120.0,1,2,10/04/1912 13:50,S,Private,Sales,40.0,7688.0,0.0,United-States,>50K,1
+660,"Newell, Mr. Arthur Webster",male,58.0,7th-8th,Married-civ-spouse,Husband,1,113.275,0,2,10/04/1912 19:40,C,?,?,24.0,0.0,0.0,United-States,<=50K,0
+39,"Vander Planke, Miss. Augusta Maria",female,18.0,HS-grad,Never-married,Own-child,3,18.0,2,0,10/04/1912 13:50,S,Private,Other-service,30.0,0.0,0.0,United-States,<=50K,0
+483,"Rouse, Mr. Richard Henry",male,50.0,Some-college,Married-civ-spouse,Husband,3,8.05,0,0,10/04/1912 12:25,S,Private,Sales,40.0,0.0,0.0,United-States,>50K,0
+785,"Ali, Mr. William",male,25.0,Some-college,Married-civ-spouse,Husband,3,7.05,0,0,10/04/1912 12:25,S,Private,Craft-repair,40.0,0.0,0.0,United-States,<=50K,0
+825,"Panula, Master. Urho Abraham",male,2.0,,,,3,39.6875,4,1,10/04/1912 13:30,S,,,,0.0,0.0,,no income,0
 276,"Andrews, Miss. Kornelia Theodosia",female,63.0,HS-grad,Married-civ-spouse,Wife,1,77.9583,1,0,10/04/1912 13:30,S,Private,Adm-clerical,40.0,3471.0,0.0,United-States,<=50K,1
-435,"Silvey, Mr. William Baird",male,50.0,HS-grad,Married-civ-spouse,Husband,1,55.9,1,0,10/04/1912 13:25,S,Private,Craft-repair,40.0,0.0,0.0,United-States,<=50K,0
+95,"Coxon, Mr. Daniel",male,59.0,Assoc-acdm,Divorced,Not-in-family,3,7.25,0,0,10/04/1912 13:50,S,?,?,8.0,0.0,0.0,United-States,<=50K,0
+593,"Elsbury, Mr. William James",male,47.0,HS-grad,Married-civ-spouse,Husband,3,7.25,0,0,10/04/1912 12:40,S,Self-emp-not-inc,Farming-fishing,56.0,0.0,0.0,United-States,>50K,0
+3,"Heikkinen, Miss. Laina",female,26.0,Bachelors,Never-married,Not-in-family,3,7.925,0,0,10/04/1912 12:45,S,Private,Prof-specialty,40.0,0.0,0.0,United-States,>50K,1
+217,"Honkanen, Miss. Eliina",female,27.0,Some-college,Never-married,Unmarried,3,7.925,0,0,10/04/1912 12:30,S,Private,Adm-clerical,50.0,0.0,0.0,United-States,<=50K,1
+175,"Smith, Mr. James Clinch",male,56.0,Bachelors,Married-civ-spouse,Husband,1,30.6958,0,0,10/04/1912 19:50,C,Private,Exec-managerial,42.0,0.0,0.0,United-States,>50K,0
+178,"Isham, Miss. Ann Elizabeth",female,50.0,Masters,Divorced,Unmarried,1,28.7125,0,0,10/04/1912 19:50,C,Local-gov,Prof-specialty,65.0,0.0,0.0,United-States,<=50K,0
+834,"Augustsson, Mr. Albert",male,23.0,Some-college,Never-married,Not-in-family,3,7.8542,0,0,10/04/1912 13:20,S,Federal-gov,Handlers-cleaners,40.0,0.0,0.0,United-States,<=50K,0
+653,"Kalvik, Mr. Johannes Halvorsen",male,21.0,12th,Never-married,Not-in-family,3,8.4333,0,0,10/04/1912 12:45,S,Private,Farming-fishing,40.0,0.0,0.0,United-States,<=50K,0
+577,"Garside, Miss. Ethel",female,34.0,HS-grad,Married-spouse-absent,Unmarried,2,13.0,0,0,10/04/1912 13:30,S,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,1
+213,"Perkin, Mr. John Henry",male,22.0,Some-college,Never-married,Own-child,3,7.25,0,0,10/04/1912 13:55,S,Private,Transport-moving,25.0,0.0,0.0,United-States,<=50K,0
+690,"Madill, Miss. Georgette Alexandra",female,15.0,,,,1,211.3375,0,1,10/04/1912 13:30,S,,,,0.0,0.0,,no income,1
+541,"Crosby, Miss. Harriet R",female,36.0,Some-college,Divorced,Unmarried,1,71.0,0,2,10/04/1912 13:35,S,Private,Adm-clerical,40.0,0.0,0.0,United-States,<=50K,1
+378,"Widener, Mr. Harry Elkins",male,27.0,Bachelors,Never-married,Not-in-family,1,211.5,0,2,10/04/1912 18:50,C,Private,Sales,45.0,0.0,1504.0,United-States,<=50K,0
+743,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,Some-college,Never-married,Own-child,1,262.375,2,2,10/04/1912 19:50,C,Private,Sales,20.0,0.0,0.0,United-States,<=50K,1
