@@ -1,0 +1,21 @@
+passenger_id,name,sex,age,education,marital_status,relationship,class,fare,sibsp,parch,date_embarked,embarked,workclass,occupation,hours_per_week,capital_gain,capital_loss,native_country,income,survived
+226,"Berglund, Mr. Karl Ivar Sven",male,22.0,HS-grad,Never-married,Own-child,3,9.35,0,0,10/04/1912 12:45,S,Private,Adm-clerical,40.0,0.0,0.0,United-States,<=50K,0
+874,"Vander Cruyssen, Mr. Victor",male,47.0,Assoc-voc,Never-married,Not-in-family,3,9.0,0,0,10/04/1912 13:25,S,Private,Other-service,40.0,0.0,0.0,United-States,<=50K,0
+140,"Giglio, Mr. Victor",male,24.0,HS-grad,Never-married,Own-child,1,79.2,0,0,10/04/1912 19:45,C,Private,Sales,45.0,0.0,0.0,United-States,<=50K,0
+316,"Nilsson, Miss. Helmina Josefina",female,26.0,HS-grad,Never-married,Not-in-family,3,7.8542,0,0,10/04/1912 13:45,S,Private,Exec-managerial,50.0,0.0,0.0,United-States,<=50K,1
+846,"Abbing, Mr. Anthony",male,42.0,7th-8th,Married-civ-spouse,Husband,3,7.55,0,0,10/04/1912 13:40,S,Self-emp-not-inc,Sales,30.0,0.0,0.0,United-States,<=50K,0
+67,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,10th,Divorced,Not-in-family,2,10.5,0,0,10/04/1912 12:50,S,Private,Machine-op-inspct,25.0,0.0,0.0,United-States,<=50K,1
+239,"Pengelly, Mr. Frederick William",male,19.0,Some-college,Never-married,Other-relative,2,10.5,0,0,10/04/1912 13:50,S,Private,Adm-clerical,25.0,0.0,0.0,United-States,<=50K,0
+891,"Dooley, Mr. Patrick",male,32.0,HS-grad,Never-married,Unmarried,3,7.75,0,0,11/04/1912 11:35,Q,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,0
+661,"Frauenthal, Dr. Henry William",male,50.0,Bachelors,Married-civ-spouse,Husband,1,133.65,2,0,10/04/1912 13:20,S,Private,Craft-repair,50.0,0.0,0.0,United-States,<=50K,1
+729,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,Some-college,Married-civ-spouse,Husband,2,26.0,1,0,10/04/1912 12:25,S,Private,Craft-repair,40.0,0.0,0.0,United-States,<=50K,0
+691,"Dick, Mr. Albert Adrian",male,31.0,Some-college,Married-civ-spouse,Husband,1,57.0,1,0,10/04/1912 13:30,S,Private,Farming-fishing,50.0,7298.0,0.0,United-States,>50K,1
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,HS-grad,Divorced,Not-in-family,3,31.3875,1,5,10/04/1912 13:30,S,Private,Other-service,75.0,0.0,0.0,United-States,<=50K,1
+805,"Hedman, Mr. Oskar Arvid",male,27.0,HS-grad,Married-civ-spouse,Husband,3,6.975,0,0,10/04/1912 12:55,S,Private,Machine-op-inspct,40.0,0.0,0.0,United-States,<=50K,1
+578,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,HS-grad,Never-married,Unmarried,1,55.9,1,0,10/04/1912 13:50,S,State-gov,Other-service,40.0,0.0,0.0,United-States,<=50K,1
+125,"White, Mr. Percival Wayland",male,54.0,HS-grad,Married-civ-spouse,Husband,1,77.2875,0,1,10/04/1912 12:40,S,Self-emp-not-inc,Craft-repair,35.0,0.0,0.0,United-States,<=50K,0
+511,"Daly, Mr. Eugene Patrick",male,29.0,HS-grad,Married-civ-spouse,Husband,3,7.75,0,0,11/04/1912 11:50,Q,Self-emp-not-inc,Farming-fishing,70.0,0.0,0.0,United-States,<=50K,1
+233,"Sjostedt, Mr. Ernst Adolf",male,59.0,HS-grad,Married-civ-spouse,Husband,2,13.5,0,0,10/04/1912 13:25,S,State-gov,Sales,40.0,0.0,0.0,United-States,<=50K,0
+391,"Carter, Mr. William Ernest",male,36.0,HS-grad,Married-civ-spouse,Husband,1,120.0,1,2,10/04/1912 13:50,S,Private,Sales,40.0,7688.0,0.0,United-States,>50K,1
+276,"Andrews, Miss. Kornelia Theodosia",female,63.0,HS-grad,Married-civ-spouse,Wife,1,77.9583,1,0,10/04/1912 13:30,S,Private,Adm-clerical,40.0,3471.0,0.0,United-States,<=50K,1
+435,"Silvey, Mr. William Baird",male,50.0,HS-grad,Married-civ-spouse,Husband,1,55.9,1,0,10/04/1912 13:25,S,Private,Craft-repair,40.0,0.0,0.0,United-States,<=50K,0
