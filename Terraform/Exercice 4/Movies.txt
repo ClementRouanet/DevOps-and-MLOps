@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 'Avatar' 
 'Star Wars' 
 'Le Seigneur des Anneaux' 
+=======
+'Avatar' 
+'Star Wars' 
+'Le Seigneur des Anneaux' 
+>>>>>>> f21e5ca60ea3aa4f7609e5b2be8b6a400e3fc233
